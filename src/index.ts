@@ -1,0 +1,1 @@
+export { useAxiosSWR } from './useAxiosSWR'
